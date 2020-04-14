@@ -2,7 +2,7 @@
 
 The Stoichiometric Matrix can be found in the ``Network.csv`` file, while the elemental composition of the metabolites that are being analyzed can be found in the ``Elements.csv`` file. 
 
-**This information is presented in a more digestable form in the ``PS3.xlsx`` file detailing the reactions, stoichiometric matrix and elemental composition.
+**This information is presented in a more digestable form in the ``PS3.xlsx`` file detailing the reactions, stoichiometric matrix and elemental composition**
 
 ### Part A
 The Stoichiometric Matrix consists for 18 rows (metabolites) and 21 columns (reactions and exchanges). The detailed breakdown can be found in ``PS3.xlsx`` while the matrix used in the Julia code can be found in ``Network.csv``
