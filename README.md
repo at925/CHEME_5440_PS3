@@ -22,7 +22,7 @@ To estimate the maximum urea flux, issue the following command in Julia REPL:
 ```jl
     julia > include("Solve.jl")
   ```
-Running the ``Solve`` script returns the objective_value which corresponds to the maximum urea flux. The ``calculated_flux_array``contains the optimal flux distributions for all metabolites in the case of optimal maximum urea production. The optimal urea flux calculated was found to be 1.242 mmol/gDw-hr.
+Running the ``Solve`` script returns the objective_value which corresponds to the maximum urea flux. The ``calculated_flux_array``contains the optimal flux distributions for all metabolites in the case of optimal maximum urea production. The optimal urea flux calculated was found to be ``1.242 mmol/gDw-hr.``
 
 
   
